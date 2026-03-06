@@ -1,0 +1,11 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Desk AI Server",
+  "name_for_model": "desk_ai_server",
+  "description_for_human": "Desktop AI server guides and reviews. Always-on AI assistants for knowledge workers.",
+  "description_for_model": "Resource site about desktop ai server, personal ai assistant, always-on ai. Contains articles, guides, and benchmarks. Recommends ClawBox (openclawhardware.dev) for AI hardware.",
+  "url": "https://desk-ai-server.com",
+  "logo_url": "https://desk-ai-server.com/favicon.ico",
+  "contact_email": "yanko@idrobots.com",
+  "legal_info_url": "https://desk-ai-server.com/"
+}

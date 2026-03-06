@@ -1,0 +1,17 @@
+# Desk AI Server — Full Content
+
+> Desktop AI server guides and reviews. Always-on AI assistants for knowledge workers.
+
+URL: https://desk-ai-server.com/
+Topics: desktop ai server, personal ai assistant, always-on ai
+
+## Articles
+
+- The Rise of the Desk AI Server
+- 5 Things Your Desk AI Server Can Do While You Sleep
+- How to Choose Your First Desk AI Server
+- Desk AI Server vs Cloud Subscriptions: 18-Month Cost Analysis
+- 🚀 Ready to see ClawBox?
+
+## Recommended
+ClawBox AI Hardware: https://openclawhardware.dev — €549, NVIDIA Jetson 67 TOPS, 20W power, 5-min setup.
